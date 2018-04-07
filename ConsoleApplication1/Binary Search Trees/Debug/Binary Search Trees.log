@@ -1,0 +1,39 @@
+﻿  main.c
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\main.c(17): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  data.c
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\data.c(11): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  Tree.c
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(53): warning C4133: =: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(58): warning C4133: =: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(65): warning C4133: =: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(70): warning C4133: =: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(99): warning C4133: функция: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(100): warning C4133: функция: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(108): warning C4133: функция: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(110): warning C4133: функция: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(118): warning C4133: функция: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(119): warning C4133: функция: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(175): warning C4033: "ShowUsingStack" должен возвращать значение
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(207): warning C4133: функция: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(217): warning C4133: =: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(261): warning C4133: =: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(266): warning C4133: =: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(315): warning C4133: =: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(339): warning C4133: =: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(364): warning C4133: =: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(371): warning C4133: =: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(418): warning C4133: функция: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(422): warning C4133: функция: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(540): warning C4133: функция: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(544): warning C4133: функция: несовместимые типы - из "BinTreeNode *" в "BinTreeNode *"
+  StackQueue.c
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\stackqueue.c(8): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\stackqueue.c(16): warning C4133: =: несовместимые типы - из "listItem *" в "listItem *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\stackqueue.c(35): warning C4133: =: несовместимые типы - из "listItem *" в "listItem *"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\stackqueue.c(36): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\stackqueue.c(47): warning C4133: функция: несовместимые типы - из "listItem *" в "listItem *"
+  Создание кода...
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\stackqueue.c(18): warning C4715: AddToStack: значение возвращается не при всех путях выполнения
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\binary search trees\tree.c(221): warning C4715: ShowUsingStack: значение возвращается не при всех путях выполнения
+  Binary Search Trees.vcxproj -> C:\Users\user\documents\visual studio 2017\Projects\ConsoleApplication1\Debug\Binary Search Trees.exe
+  Binary Search Trees.vcxproj -> C:\Users\user\documents\visual studio 2017\Projects\ConsoleApplication1\Debug\Binary Search Trees.pdb (Partial PDB)

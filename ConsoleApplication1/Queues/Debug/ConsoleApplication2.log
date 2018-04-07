@@ -1,0 +1,7 @@
+﻿  queue.c
+  menu.c
+  data.c
+c:\users\user\documents\visual studio 2017\projects\consoleapplication1\common\data.c(15): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+  ConsoleApplication2.vcxproj -> C:\Users\user\documents\visual studio 2017\Projects\ConsoleApplication1\Debug\Queues.exe
+  ConsoleApplication2.vcxproj -> C:\Users\user\documents\visual studio 2017\Projects\ConsoleApplication1\Debug\Queues.pdb (Partial PDB)
